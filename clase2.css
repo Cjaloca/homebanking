@@ -5,12 +5,18 @@
 
 /*etiquetas html*/
 h1{
-padding: 1% 0px 0px 0px;
-text-align: center;
+    padding: 0% 0px 0px 0px;
+    text-align: center;
+    text-shadow: 2px 2px red;
+    font-size: 40px ;
+    font-family:fantasy ;
 }
 h2{
-padding:0px 0px 1% 0px;
-text-align: center;
+    padding:0px 0px 1% 0px;
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+    font-size: 40px;
+    font-family:monospace ;
 }
 
 body{
@@ -23,7 +29,7 @@ body{
     height: 100px;
     width: 100%;    
     top: 0;
-    background-color: rgb(85,4,4);
+    background-color:steelblue;
 }
 .pipo{
     height: 6000px;
